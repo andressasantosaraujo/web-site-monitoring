@@ -1,0 +1,12 @@
+05/06/2020 23:57:52 - https://www.globo.com/ - online: true
+05/06/2020 23:57:52 - https://www.uol.com.br/ - online: true
+05/06/2020 23:57:53 - https://www.terra.com.br/noticias/ - online: true
+05/06/2020 23:57:54 - https://news.google.com/topstories?hl=pt-BR&gl=BR&ceid=BR:pt-419 - online: true
+05/06/2020 23:57:55 - https://www.r7.com/ - online: true
+05/06/2020 23:57:55 - https://www.bbc.com/portuguese - online: true
+05/06/2020 23:58:49 - https://www.globo.com/ - online: true
+05/06/2020 23:58:49 - https://www.uol.com.br/ - online: true
+05/06/2020 23:58:57 - https://www.terra.com.br/noticias/ - online: true
+05/06/2020 23:58:58 - https://news.google.com/topstories/ - online: true
+05/06/2020 23:58:59 - https://www.r7.com/ - online: true
+05/06/2020 23:58:59 - https://www.bbc.com/portuguese - online: true
